@@ -46,3 +46,9 @@ Getting ready for Linux!
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualbox4.JPG)
 
 Last options
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux1.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux2.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux3.JPG)
