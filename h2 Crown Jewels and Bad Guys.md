@@ -121,7 +121,13 @@ Some answers:
 
 ## b) Incident analyses
 
+I picked Marriott International case from site: https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html
 
+It happened September 2018 and impacted 500 million users.
+
+What happened: Marriott learned during the investigation that there had been unauthorized access to the Starwood network since 2014. "Marriott recently discovered that an unauthorized party had copied and encrypted information and took steps towards removing it. On November 19, 2018, Marriott was able to decrypt the information and determined that the contents were from the Starwood guest reservation database," the statement added. The data copied included guests' names, mailing addresses, phone numbers, email addresses, passport numbers, Starwood Preferred Guest account information, dates of birth, gender, arrival and departure information, reservation dates, and communication preferences. For some, the information also included payment card numbers and expiration dates, though these were apparently encrypted.
+
+Analysis: There must have possibility 
 
 ## c) Starting a lab
 
