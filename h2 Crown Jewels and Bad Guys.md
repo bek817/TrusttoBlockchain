@@ -21,8 +21,8 @@ Then Linux download at page: https://cdimage.debian.org/debian-cd/current-live/a
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall1.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall2.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall3.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall4.JPG)
