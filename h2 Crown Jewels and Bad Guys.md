@@ -37,7 +37,7 @@ And last table of Virtualbox install
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualbox1.JPG)
 
-Powering up Virtualbox
+Options
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualbox2.JPG)
 
@@ -45,7 +45,7 @@ Getting ready for Linux!
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualbox4.JPG)
 
-Last options
+Powering up
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux1.JPG)
 
