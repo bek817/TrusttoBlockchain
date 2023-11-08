@@ -100,6 +100,9 @@ Validating Threats:
 #### 2. Business requirements come from business, technical specialist help with tech. Inlude this in your narrative.
 #### 3. Your analysis should cover all parts of the four question model (four key questions in Threat modeling manifesto)
 
+### Imaginary company
+
+Housing cooperative with about 100 apartments. In this case focus is data gained from electric locking system. System is based on Iloq keys that combines by air door locks and central server. It goes without saying that this kind of data contains privacy element.
 
 ## b) Incident analyses
 
