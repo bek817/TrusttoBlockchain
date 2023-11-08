@@ -32,8 +32,10 @@ The kill chain shows an asymmetry between aggressor and defender.
 
 #### My own views:
 
-### Summary of Hutchins et al 2011:
-### Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+### Summary of Shostack 2014:
+### Threat Modeling: Designing for Security
+### Chapter 1 - Dive in and Threat model!
+
 
 
 
