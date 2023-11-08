@@ -25,7 +25,7 @@ I didnt installed asked networking features cause I wanted to try out first with
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall2.JPG)
 
-I continued by following instructions
+I continued by following instructions. I used "TeroKarvinenCom" cause I wast sure it was mandatory for further settings.
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall3.JPG)
 
