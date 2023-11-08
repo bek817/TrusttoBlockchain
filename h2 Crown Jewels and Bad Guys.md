@@ -44,26 +44,17 @@ Four key questions:
 3. What should you do about those things that can go wrong?
 4. Did you do a decent job of analysis?
 
-Building a diagram, finding threats, addressing them, and then checking work.
+Building a diagram, finding threats, addressing them, and then checking work. After having a diagram, then looking for what can go wrong with its security. 
 
-After having a diagram, then looking for what can go wrong with its security. 
+STRIDE Mnemonic to Find Threats
+It stands for Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege:
 
-Using the STRIDE Mnemonic to Find Threats
-STRIDE is a mnemonic for things that go wrong in security. It stands for
-Spoofing, Tampering, Repudiation, Information Disclosure, Denial of
-Service, and Elevation of Privilege:
-Spoofing is pretending to be something or someone you're not.
-Tampering is modifying something you're not supposed to modify. It
-can include packets on the wire (or wireless), bits on disk, or the bits
-in memory.
-Repudiation means claiming you didn't do something (regardless of
-whether you did or not).
-Denial of Service are attacks designed to prevent a system from providing service, including by crashing it, making it unusably slow, or
-filling all its storage.
-Information Disclosure is about exposing information to people who
-are not authorized to see it.
-Elevation of Privilege is when a program or user is technically able
-to do things that they're not supposed to do.
+**Spoofing** is pretending to be something or someone you're not.
+**Tampering** is modifying something you're not supposed to modify.
+**Repudiation** means claiming you didn't do something
+**Denial of Service** are attacks designed to prevent a system from providing service
+**Information Disclosure** is about exposing information to people who are not authorized to see it.
+**Elevation of Privilege** is when a program or user is technically able to do things that they're not supposed to do.
 
 
 How do you know that the web browser is being used by the person
