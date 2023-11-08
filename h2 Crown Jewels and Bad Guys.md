@@ -112,6 +112,11 @@ Four key questions repeated:
 
 1. What are you building? 2. What can go wrong? 3. What should you do about those things that can go wrong? 4. Did you do a decent job of analysis?
 
+Some answers:
+1. Threat model that secures residents privacy data
+2. e.g. privacy data can be accessed unauthorized
+3. e.g. determine right state of access rights
+4. Bit by bit
 
 
 ## b) Incident analyses
