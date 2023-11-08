@@ -57,4 +57,9 @@ Desktop
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux3.JPG)
 
-Webpage opens too, so I think Virtualbox networking options should not need to install at least for basic browsing
+Webpage opens too, so I think Virtualbox networking options should not need to install at least for basic browsing.
+
+Environment 6 years old laptop PC
+Processor	Intel Core(TM) i7-7700HQ CPU @ 2.80GHz 2.81 GHz, x64
+Installed RAM	24,0 Gt
+OS Windows10 64-bit
