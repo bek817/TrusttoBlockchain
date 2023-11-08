@@ -1,4 +1,5 @@
 # h2 Crown Jewels and Bad Guys
+
 ## x) Read and summarize
 
 ### Summary of Hutchins et al 2011:
@@ -22,6 +23,10 @@ Intelligence-driven computer network defense is a nowadays necessity. Convention
 The kill chain shows an asymmetry between aggressor and defender.
 
 #### My own views:
+
+- network defense is lot more than fighting against odd spam emails
+- how important is organizations general awareness, this study has been made in security oriented company
+  - how to reach that level in companyes whose general business idea is other than security?
 
 ### Summary of Shostack 2014:
 ### Threat Modeling: Designing for Security
