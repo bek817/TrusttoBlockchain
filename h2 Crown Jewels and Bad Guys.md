@@ -13,4 +13,4 @@ https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG
 ![Model][https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG]
 
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
