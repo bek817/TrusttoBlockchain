@@ -43,9 +43,9 @@ STRIDE Mnemonic to Find Threats. It stands for:
   
 **Tampering** is modifying something you're not supposed to modify.
   
-**Repudia tion** means claiming you didn't do something
+**Repudia tion** means claiming you didn't do something.
   
-**Denial of Service** are attacks designed to prevent a system from providing service
+**Denial of Service** are attacks designed to prevent a system from providing service.
   
 **Information Disclosure** is about exposing information to people who are not authorized to see it.
   
