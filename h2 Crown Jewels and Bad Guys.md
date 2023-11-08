@@ -13,6 +13,10 @@ First I seached info how to show images at github. I found that from page: https
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
 
+I started installation by entering: https://terokarvinen.com/2021/install-debian-on-virtualbox/
+
+Then download at page: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
+
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall1.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
