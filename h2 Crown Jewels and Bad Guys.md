@@ -102,7 +102,9 @@ Validating Threats:
 
 ### Imaginary company
 
-Housing cooperative with about 100 apartments. In this case focus is data gained from electric locking system. System is based on Iloq keys that combines by air door locks and central server. It goes without saying that this kind of data contains privacy element.
+Housing cooperative with about 100 apartments. In this case focus is data gained from electric locking system. System is based on Iloq keys that combines by air keys, door locks, local server and supplier server. It goes without saying that this kind of data contains privacy element.
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux1.JPG)
 
 ## b) Incident analyses
 
