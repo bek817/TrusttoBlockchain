@@ -1,4 +1,8 @@
 # h2 Crown Jewels and Bad Guys
+## x) Read and summarize
+
+
+
 ## a) Make-belief boogie-man. Create a treath model for imaginary company
 
 
