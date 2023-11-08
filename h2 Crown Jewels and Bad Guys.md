@@ -47,7 +47,7 @@ Four key questions:
 Building a diagram, finding threats, addressing them, and then checking work. After having a diagram, then looking for what can go wrong with its security. 
 
 STRIDE Mnemonic to Find Threats
-It stands for Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege:
+It stands for:
 
 **Spoofing** is pretending to be something or someone you're not.
   
@@ -62,37 +62,25 @@ It stands for Spoofing, Tampering, Repudiation, Information Disclosure, Denial o
 **Elevation of Privilege** is when a program or user is technically able to do things that they're not supposed to do.
   
 
-How do you know that the web browser is being used by the person
-you expect?
-What happens if someone modifies data in the database?
-Is it ok for information to go from one box to the next without being
-encrypted?
+Tips for Identifying Threats: Start with external entities, never ignore a threat because it's not what you're looking for right now and focus on feasible threats.
 
-Tips for Identifying Threats
-Start with external entities:
-Never ignore a threat because it's not what you're looking for
-right now: 
-Focus on feasible threats:
-
-Addressing Each Threat
+#### Addressing Each Threat:
 Mitigating threats
 Eliminating threats
 Transferring threats
 Accepting the risk
 
-Validation of your threat model is the last thing you do as part of threat
-modeling.
+Validation of threat model last part.
 
-You should ensure that the final model matched what you built.
+Questions to check model:
 Is this complete?
 Is it accurate?
 Does it cover all the security decisions we made?
 Can I start the next version with this diagram without any changes?
 
-Updating the Diagram
-As you went through the diagram, you might have noticed that it's missing key data. I
+Update the Diagram if needed.
 
-Threat Modeling on Your Own
+Threat Modeling:
 1. Draw a diagram.
 2. Use the EoP game to find threats.
 3. Address each threat in some way.
