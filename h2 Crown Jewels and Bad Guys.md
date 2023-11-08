@@ -39,6 +39,4 @@ And last table of Virtualbox install
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualbox2.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualbox3.JPG)
-
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualbox4.JPG)
