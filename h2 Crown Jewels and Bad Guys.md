@@ -50,17 +50,17 @@ STRIDE Mnemonic to Find Threats
 It stands for Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege:
 
 **Spoofing** is pretending to be something or someone you're not.
-
+  
 **Tampering** is modifying something you're not supposed to modify.
-
-**Repudiation** means claiming you didn't do something
-
+  
+**Repudia tion** means claiming you didn't do something
+  
 **Denial of Service** are attacks designed to prevent a system from providing service
-
+  
 **Information Disclosure** is about exposing information to people who are not authorized to see it.
-
+  
 **Elevation of Privilege** is when a program or user is technically able to do things that they're not supposed to do.
-
+  
 
 How do you know that the web browser is being used by the person
 you expect?
