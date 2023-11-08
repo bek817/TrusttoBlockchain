@@ -89,6 +89,10 @@ Validating Threats:
 
 #### My own views:
 
+- threat modelling is long term task
+- threat model is never fully finished
+- how to engage all needed parties (out of tech personnel too) to make sufficient threat model?
+
 ## a) Make-belief boogie-man. Create a treath model for imaginary company
 
 #### To do:
