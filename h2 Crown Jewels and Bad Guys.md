@@ -4,7 +4,7 @@
 ### Summary of Hutchins et al 2011:
 ### Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 
-Intelligence-driven computer network defense is a risk management strategy that addresses the threat component of risk, incorporating analysis of adversaries, their capabilities, objectives, doctrine and limitations. This is necessarily a continuous process, leveraging indicators to discover new activity with yet more indicators to leverage. It requires a new understanding of the intrusions themselves, not as singular events, but rather as phased progressions.
+Intelligence-driven computer network defense is a risk management strategy that addresses the threat component of risk, incorporating analysis of adversaries, their capabilities, objectives, doctrine and limitations. It is a continuous process, leveraging indicators to discover new activity with yet more indicators to leverage.
 
 The fundamental element of intelligence in model is the indicator. Indicators can be subdivided into three types: atomic, computed and behavioral.
 
@@ -17,7 +17,7 @@ With respect to computer network attack (CNA) or computer network espionage (CNE
 6. Command and Control
 7. Actions on Objectives
 
-Intelligence-driven computer network defense is a necessity in light of advanced persistent threats. As conventional, vulnerability-focused processes are insufficient, understanding the threat itself, its intent, capability, doctrine, and patterns of operation is required to establish resilience. The intrusion kill chain provides a structure to analyze intrusions, extract indicators and drive defensive courses of actions.
+Intelligence-driven computer network defense is a nowadays necessity. Conventional, vulnerability-focused processes are insufficient. The intrusion kill chain provides a structure to analyze intrusions, extract indicators and drive defensive courses of actions.
 
 The kill chain shows an asymmetry between aggressor and defender.
 
