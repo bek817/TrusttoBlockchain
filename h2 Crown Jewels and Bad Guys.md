@@ -19,6 +19,8 @@ I started installation by entering: https://terokarvinen.com/2021/install-debian
 
 Then Linux download at page: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/ and Virtualbox at page: https://www.virtualbox.org/wiki/Downloads
 
+### Virtualbox
+
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall1.JPG)
 
 I didnt installed asked networking features cause I wanted to try out first without
@@ -46,6 +48,8 @@ Getting ready for Linux!
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualbox4.JPG)
 
 Powering up
+
+### Linux
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux1.JPG)
 
