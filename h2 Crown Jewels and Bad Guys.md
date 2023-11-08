@@ -95,9 +95,10 @@ Validating Threats
 
 ## a) Make-belief boogie-man. Create a treath model for imaginary company
 
-#### Create an imaginary company and create threat model.
-#### Business requirements come from business, technical specialist help with tech. Inlude this in your narrative.
-#### Your analysis should cover all parts of the four question model (four key questions in Threat modeling manifesto)
+#### To do:
+#### 1. Create an imaginary company and create threat model.
+#### 2. Business requirements come from business, technical specialist help with tech. Inlude this in your narrative.
+#### 3. Your analysis should cover all parts of the four question model (four key questions in Threat modeling manifesto)
 
 
 ## b) Incident analyses
