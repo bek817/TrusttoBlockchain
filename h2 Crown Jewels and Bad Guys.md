@@ -30,7 +30,7 @@ chain provides a structure to analyze intrusions, extract indicators and drive d
 
 The kill chain shows an asymmetry between aggressor and defender.
 
-### My own views:
+#### My own views:
 
 ### Summary of Hutchins et al 2011:
 ### Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
