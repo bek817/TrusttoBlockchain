@@ -13,7 +13,7 @@ First I seached info how to show images at github. I found that from page: https
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Virtualboxinstall1.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Downloads.JPG)
 
