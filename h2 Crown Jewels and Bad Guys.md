@@ -110,10 +110,7 @@ Simplified diagram
 
 Four key questions repeated:
 
-What are you building?
-What can go wrong?
-What should you do about those things that can go wrong?
-Did you do a decent job of analysis?
+1. What are you building? 2. What can go wrong? 3. What should you do about those things that can go wrong? 4. Did you do a decent job of analysis?
 
 
 
