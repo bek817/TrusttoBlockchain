@@ -7,5 +7,4 @@
 
 
 
-## Starting a lab
-
+## c) Starting a lab
