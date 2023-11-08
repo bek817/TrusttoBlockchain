@@ -76,7 +76,7 @@ Threat Modeling:
 4. Check your work with the checklists at the end of this chapter.
 5. Celebrate and share your work.
 
-Validating Threats
+Validating Threats:
 1. Have we written down or filed a bug for each threat?
 2. Is there a proposed/planned/implemented way to address each threat?
 3. Do we have a test case per threat?
