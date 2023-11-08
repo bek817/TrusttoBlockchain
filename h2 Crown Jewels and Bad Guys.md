@@ -57,4 +57,4 @@ Desktop
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux3.JPG)
 
-Webpage opens too, so I think networking options should not need to install at least for basic browsing
+Webpage opens too, so I think Virtualbox networking options should not need to install at least for basic browsing
