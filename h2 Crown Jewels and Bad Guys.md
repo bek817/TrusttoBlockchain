@@ -17,7 +17,7 @@ I started installation by entering: https://terokarvinen.com/2021/install-debian
 
 I started installation by entering: https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
-Then download at page: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
+Then Linux download at page: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/ and Virtualbox at page: https://www.virtualbox.org/wiki/Downloads
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall1.JPG)
 
