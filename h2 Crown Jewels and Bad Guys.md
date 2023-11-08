@@ -36,7 +36,7 @@ The kill chain shows an asymmetry between aggressor and defender.
 ### Threat Modeling: Designing for Security
 ### Chapter 1 - Dive in and Threat model!
 
-Threat modeling is about using models to find security problems. Using a model means abstracting away a lot of details to provide a look at a bigger picture, rather than the code itself.
+Threat modeling is about using models to find security problems. Using a model means abstracting away a lot of details to provide a look at a bigger picture, rather than the code itself.
 
 Four key questions:
 1. What are you building?
@@ -46,8 +46,7 @@ Four key questions:
 
 Building a diagram, finding threats, addressing them, and then checking work. After having a diagram, then looking for what can go wrong with its security. 
 
-STRIDE Mnemonic to Find Threats
-It stands for:
+STRIDE Mnemonic to Find Threats. It stands for:
 
 **Spoofing** is pretending to be something or someone you're not.
   
@@ -61,7 +60,6 @@ It stands for:
   
 **Elevation of Privilege** is when a program or user is technically able to do things that they're not supposed to do.
   
-
 Tips for Identifying Threats: Start with external entities, never ignore a threat because it's not what you're looking for right now and focus on feasible threats.
 
 #### Addressing Each Threat:
@@ -93,6 +91,7 @@ Validating Threats
 3. Do we have a test case per threat?
 4. Has the software passed the test?
 
+#### My own views:
 
 ## a) Make-belief boogie-man. Create a treath model for imaginary company
 
