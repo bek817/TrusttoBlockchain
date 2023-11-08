@@ -49,6 +49,12 @@ Last options
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux1.JPG)
 
+Boot menu
+
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux2.JPG)
 
+Desktop
+
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Linux3.JPG)
+
+Webpage opens too, so I think networking options should not need to install at least for basic browsing
