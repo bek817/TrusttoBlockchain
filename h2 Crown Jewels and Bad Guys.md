@@ -21,6 +21,8 @@ Then Linux download at page: https://cdimage.debian.org/debian-cd/current-live/a
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall1.JPG)
 
+I didnt installed asked network features cause I wanted to try out first without
+
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall2.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/VirtualboxInstall3.JPG)
