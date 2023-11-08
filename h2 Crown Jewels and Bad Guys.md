@@ -1,8 +1,28 @@
 # h2 Crown Jewels and Bad Guys
 ## x) Read and summarize
 
-Summary of: Hutchins et al 2011:
-Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+### Summary of: Hutchins et al 2011:
+### Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+
+Intelligence-driven computer network defense is a risk management strategy that addresses the threat
+component of risk, incorporating analysis of adversaries, their capabilities, objectives, doctrine and
+limitations. This is necessarily a continuous process, leveraging indicators to discover new activity with
+yet more indicators to leverage. It requires a new understanding of the intrusions themselves, not as
+singular events, but rather as phased progressions.
+
+The fundamental element of intelligence in this model is the indicator. Indicators can be subdivided
+into three types:
+  Atomic - Atomic indicators are those which cannot be broken down into smaller parts and retain
+their meaning in the context of an intrusion. Typical examples here are IP addresses, email addresses,
+and vulnerability identifiers.
+  Computed - Computed indicators are those which are derived from data involved in an incident.
+Common computed indicators include hash values and regular expressions.
+  Behavioral - Behavioral indicators are collections of computed and atomic indicators, often subject
+to qualification by quantity and possibly combinatorial logic. An example would be a statement
+such as ”the intruder would initially used a backdoor which generated network traffic matching
+[regular expression] at the rate of [some frequency] to [some IP address], and then replace it with
+one matching the MD5 hash [value] once access was established.”
+
 
 
 
