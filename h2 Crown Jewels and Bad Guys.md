@@ -1,7 +1,7 @@
 # h2 Crown Jewels and Bad Guys
 ## x) Read and summarize
 
-### Summary of: Hutchins et al 2011:
+### Summary of Hutchins et al 2011:
 ### Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 
 Intelligence-driven computer network defense is a risk management strategy that addresses the threat
@@ -29,6 +29,11 @@ capability, doctrine, and patterns of operation is required to establish resilie
 chain provides a structure to analyze intrusions, extract indicators and drive defensive courses of actions.
 
 The kill chain shows an asymmetry between aggressor and defender.
+
+#### My own views:
+
+### Summary of Hutchins et al 2011:
+### Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 
 
 
