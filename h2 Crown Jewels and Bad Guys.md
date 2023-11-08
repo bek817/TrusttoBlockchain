@@ -106,6 +106,17 @@ Housing cooperative with about 100 apartments. In this case focus is data gained
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
 
+Simplified diagram
+
+Four key questions repeated:
+
+What are you building?
+What can go wrong?
+What should you do about those things that can go wrong?
+Did you do a decent job of analysis?
+
+
+
 ## b) Incident analyses
 
 
