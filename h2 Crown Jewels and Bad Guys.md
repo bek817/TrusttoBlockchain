@@ -1,6 +1,9 @@
 # h2 Crown Jewels and Bad Guys
 ## x) Read and summarize
 
+Summary of: Hutchins et al 2011:
+Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+
 
 
 ## a) Make-belief boogie-man. Create a treath model for imaginary company
