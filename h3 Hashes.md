@@ -58,7 +58,7 @@ I followed instructions: https://terokarvinen.com/2023/trust-to-blockchain/#h3-h
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3a3.JPG)
 
-One way to make begin with zero: https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
+One way to make md5 hash begin with zero: https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
 
 # b) Compare hash and Install hashcat and test that it works
 
