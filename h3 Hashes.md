@@ -38,7 +38,7 @@ A one-way hash function has many names
 - fingerprint
 - cryptographic checksum
 - message integrity check (MIC)
-- manipulation detection code (MDC).
+- manipulation detection code (MDC)
 
 A hash function is a function that takes a variable-length input string (pre-image) and converts it to a fixedlength output string (hash value). The point here is to fingerprint the pre-image: to produce a value that indicates whether a candidate pre-image is likely to be the same as the real pre-image.
 
