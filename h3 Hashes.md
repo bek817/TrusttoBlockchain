@@ -92,8 +92,7 @@ I followed instructions: https://terokarvinen.com/2022/cracking-passwords-with-h
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c7.JPG)
 
-
-
+Hash is ´admin´
 
 # d) Crack this Windows NTLM hash: f2477a144dff4f216ab81f2ac3e3207d
 
