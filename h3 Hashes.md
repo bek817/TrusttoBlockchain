@@ -46,6 +46,8 @@ A good one-way hash function is also collision-free: It is hard to generate two 
 
 # a) Billion dollar busywork
 
+I followed instructions: https://terokarvinen.com/2023/trust-to-blockchain/#h3-hashes
+
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3Keyboard1.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3a1.JPG)
