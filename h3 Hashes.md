@@ -46,6 +46,37 @@ A good one-way hash function is also collision-free: It is hard to generate two 
 
 # a) Billion dollar busywork
 
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
 https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
 
 
