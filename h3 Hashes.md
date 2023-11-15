@@ -58,6 +58,8 @@ I followed instructions: https://terokarvinen.com/2023/trust-to-blockchain/#h3-h
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3a3.JPG)
 
+One way to make begin with zero: https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
+
 # b) Compare hash and Install hashcat and test that it works
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b1.JPG)
@@ -71,6 +73,8 @@ Small text file "test.txt". I changed one letter in file and hash changed to tot
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b4.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b5.JPG)
+
+https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 
 # c) Crack this hash: 21232f297a57a5a743894a0e4a801fc3
 
@@ -87,11 +91,9 @@ Small text file "test.txt". I changed one letter in file and hash changed to tot
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c6.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c7.JPG)
-https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
 
 
 
-https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 
 # d) Crack this Windows NTLM hash: f2477a144dff4f216ab81f2ac3e3207d
 
