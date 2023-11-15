@@ -5,6 +5,7 @@
 
 ### Cryptography is to solve problems.
 
+### Protocols
 A protocol is a series of steps, involving two or more parties, designed to
 accomplish a task. Computers need formal protocols to do the same things that people do without thinking.
 
@@ -12,20 +13,24 @@ Protocols have characteristics like everyone involved in the protocol must know 
 
 People on computer networks could be dishonest. An arbitrator is a disinterested third party trusted to complete a protocol. Because of the high cost of hiring arbitrators, arbitrated protocols can be subdivided into two lower-level subprotocols. A self-enforcing protocol is the best type of protocol. The protocol itself guarantees fairness.
 
+### Attacks
 Cryptographic attacks can be directed against the cryptographic algorithms used in protocols, against the cryptographic techniques used to implement the algorithms and protocols, or against the protocols themselves.
 There could be active or passive attacks and active or passive cheaters.
 
 A good cryptosystem is one in which all the security is inherent in knowledge of the key and none is inherent in knowledge of the algorithm.
 
+### Symmetric
 Symmetric cryptosystems problems:
 Keys must be distributed in secret
 One revealed key could be used to encrypt all related messages
 Assuming a separate key is used for each pair of users in a network, the total number of keys increases rapidly as the number of users increases
 
+### One-way
 One-way function is central to public-key cryptography. One-way functions are relatively easy to compute, but significantly harder to reverse. Although there is not mathematic certainty that truly one-way function exists.
 
 A trapdoor one-way function is a special type of one-way function. It is easy to compute in one direction and hard to compute in the other direction. When you know the secret, you can easily compute the function in the other direction.
 
+### Hash
 A one-way hash function has many names
 - compression function
 - contraction function
