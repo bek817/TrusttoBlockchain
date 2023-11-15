@@ -54,6 +54,8 @@ A good one-way hash function is also collision-free: It is hard to generate two 
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3a3.JPG)
 
+# b) Compare hash and Install hashcat and test that it works
+
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b1.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b2.JPG)
@@ -63,6 +65,8 @@ A good one-way hash function is also collision-free: It is hard to generate two 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b4.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b5.JPG)
+
+# c) Crack this hash: 21232f297a57a5a743894a0e4a801fc3
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c1.JPG)
 
