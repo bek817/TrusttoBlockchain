@@ -68,13 +68,13 @@ One way to make md5 hash begin with zero: https://stackoverflow.com/questions/31
 
 Small text file "test.txt". I changed one letter in file and hash changed to totally different.
 
+I followed instructions: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b3.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b4.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b5.JPG)
-
-https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 
 # c) Crack this hash: 21232f297a57a5a743894a0e4a801fc3
 
