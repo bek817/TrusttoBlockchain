@@ -101,4 +101,4 @@ https://security.stackexchange.com/questions/161889/understanding-windows-local-
 
 # e) Try cracking this hash and comment on your hash rate
 
-I didnt succeeded
+I didnt succeed
