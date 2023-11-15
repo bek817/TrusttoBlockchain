@@ -48,35 +48,35 @@ A good one-way hash function is also collision-free: It is hard to generate two 
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3Keyboard1.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3a1.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3a2.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3a3.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b1.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b2.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b3.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b4.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b5.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c1.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c2.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c3.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c4.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c5.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c6.JPG)
 
-![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/Diagram.JPG)
+![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3c7.JPG)
 https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
 
 
