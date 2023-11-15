@@ -52,3 +52,6 @@ https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
 
 https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 
+
+
+https://security.stackexchange.com/questions/161889/understanding-windows-local-password-hashes-ntlm
