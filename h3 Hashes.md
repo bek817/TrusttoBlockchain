@@ -1,9 +1,9 @@
-# Hashes
+# h3 Hashes
 
 # x) Read and summarize
 ## Schneier 2015: Applied Cryptography: Chapter 2 - Protocol Building Blocks: subchapters "2.3 One-way Fuctions" and "2.4 One-Way Hash Functions"
 
-### Cryptography is to solve problems.
+### Cryptography is to solve problems
 
 ### Protocols
 A protocol is a series of steps, involving two or more parties, designed to
@@ -43,3 +43,12 @@ A one-way hash function has many names
 A hash function is a function that takes a variable-length input string (pre-image) and converts it to a fixedlength output string (hash value). The point here is to fingerprint the pre-image: to produce a value that indicates whether a candidate pre-image is likely to be the same as the real pre-image.
 
 A good one-way hash function is also collision-free: It is hard to generate two pre-images with the same hash value. The hash function is public; there's no secrecy to the process. The security of a one-way hash function is its one-wayness.
+
+# a) Billion dollar busywork
+
+https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
+
+
+
+https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+
