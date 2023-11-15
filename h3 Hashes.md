@@ -58,13 +58,13 @@ I followed instructions: https://terokarvinen.com/2023/trust-to-blockchain/#h3-h
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3a3.JPG)
 
-Small text file "test.txt". I changed one letter in file and hash changed to totally different.
-
 # b) Compare hash and Install hashcat and test that it works
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b1.JPG)
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b2.JPG)
+
+Small text file "test.txt". I changed one letter in file and hash changed to totally different.
 
 ![Model](https://github.com/bek817/TrusttoBlockchain/blob/main/h3b3.JPG)
 
