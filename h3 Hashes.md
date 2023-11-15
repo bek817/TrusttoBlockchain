@@ -87,6 +87,11 @@ https://stackoverflow.com/questions/3180374/can-an-md5-hash-begin-with-a-zero
 
 https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 
+# d) Crack this Windows NTLM hash: f2477a144dff4f216ab81f2ac3e3207d
 
-
+I tried to search info, but didnt manage to crack that hash
 https://security.stackexchange.com/questions/161889/understanding-windows-local-password-hashes-ntlm
+
+# e) Try cracking this hash and comment on your hash rate
+
+I didnt succeeded
